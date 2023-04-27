@@ -6,8 +6,8 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ma-charoosaei.github.io/)](https://ma-charoosaei.github.io/)
 [![Github](https://img.shields.io/github/followers/ma-charoosaei?label=Follow&style=social)](https://github.com/ma-charoosaei)
 
-- 👋 I am a machine learning, deep learning, and computer vision researcher and <br> received my B.Sc. degree in Computer Engineering  in Nov. 2021. 
-- 📃 I have authored or co-authored peer-reviewed journal research articles and international conference papers in leading academic journals and conferences including IEEE and Springer.
+- 👋 I am an ML, DL, and computer vision researcher and received my B.Sc. degree in Computer Engineering  in Nov. 2021. 
+- 📃 I have authored or co-authored top-tier peer-reviewed research articles in leading academic journals and conferences.
 -  💻 As a researcher, I have worked on several projects including machine learning, deep learning, image processing, computer vision, and data mining. 
 - 🌱 I have worked on several research projects that ended up in peer-reviewed research articles.
 - I have reviewed 85+ research articles for IEEE Access journal, New York, US.
