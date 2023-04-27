@@ -4,7 +4,7 @@
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/ma-charoosaei/)
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:m.a.charoosaei@gmail.com)
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ma-charoosaei.github.io/)](https://ma-charoosaei.github.io/)
-[![Github](https://img.shields.io/github/followers/hejazizo?label=Follow&style=social)](https://github.com/hejazizo)
+[![Github](https://img.shields.io/github/followers/ma-charoosaei?label=Follow&style=social)](https://github.com/ma-charoosaei)
 
 - 👋 I am a machine learning, deep learning, and computer vision researcher and received my B.Sc. degree in Computer Engineering  in Nov. 2021.
 -  💻 As a researcher, I have worked on several projects including machine learning, deep learning, image processing, computer vision, and data mining. 
