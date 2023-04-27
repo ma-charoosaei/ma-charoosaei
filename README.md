@@ -7,10 +7,9 @@
 [![Github](https://img.shields.io/github/followers/ma-charoosaei?label=Follow&style=social)](https://github.com/ma-charoosaei)
 
 - 👋 I am an ML, DL, and computer vision researcher and received my B.Sc. degree in Computer Engineering  in Nov. 2021. 
-- 📃 I have authored or co-authored top-tier peer-reviewed research articles in leading academic journals and conferences.
--  💻 As a researcher, I have worked on several projects including machine learning, deep learning, image processing, computer vision, and data mining. 
-- 🌱 I have worked on several research projects that ended up in peer-reviewed research articles.
-- I have reviewed 85+ research articles for IEEE Access journal, New York, US.
+- 📝 I have authored or co-authored top-tier peer-reviewed research articles in leading academic journals and conferences.
+- 💻 As a researcher, I have worked on several projects including ML, DL, computer vision, image processing, and data mining. 
+- 🔎 I have reviewed 85+ research articles for IEEE Access journal, New York, US.
 - 📫 How to reach me: m.a.charoosaei@gmail.com
 
 
