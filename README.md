@@ -9,7 +9,7 @@
 - 👋 I am an ML, DL, and computer vision researcher and received my B.Sc. degree in Computer Engineering  in Nov. 2021. 
 - 📝 I have authored or co-authored top-tier peer-reviewed research articles in leading academic journals and conferences.
 - 💻 As a researcher, I have worked on several projects including ML, DL, computer vision, image processing, and data mining. 
-- 🔎 I have reviewed 90+ research articles for IEEE Access journal, New York, US.
+- 🔎 I have reviewed 100+ research articles for IEEE Access journal, New York, US.
 - 📫 How to reach me: m.a.charoosaei@gmail.com
 
 
