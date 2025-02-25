@@ -7,7 +7,7 @@
 [![Github](https://img.shields.io/github/followers/ma-charoosaei?label=Follow&style=social)](https://github.com/ma-charoosaei)
 
 - 👋 UK Global Talent | Applied AI Researcher at Manchester Met University
-- 📝 Applied AI researcher with experience in AI applications, Computer Vision, and Data Science.
+- 📝 Applied AI researcher with experience in AI applications, Computer Vision, and Software Engineering.
 - 💻 4+ years of experience including industry contributions, publication of articles, and reviewer roles.
 - 🔎 Involved in UKRI-funded projects with international partners from academia and industry.
 - 📫 How to reach me: m.a.charoosaei@gmail.com
