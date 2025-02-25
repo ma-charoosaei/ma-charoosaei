@@ -6,18 +6,17 @@
 [![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://ma-charoosaei.github.io/)](https://ma-charoosaei.github.io/)
 [![Github](https://img.shields.io/github/followers/ma-charoosaei?label=Follow&style=social)](https://github.com/ma-charoosaei)
 
-- 👋 I'm studying for an MSc in Artificial Intelligence at Manchester Met University, where I can focus on my interests and gain expertise. 
-- 📝 I have authored or co-authored top-tier peer-reviewed research articles in leading academic journals and conferences.
-- 💻 As a researcher, I have worked on several projects including ML, DL, computer vision, image processing, and data mining. 
-- 🔎 I have reviewed 100+ research articles for IEEE Access journal, NJ, US.
+- 👋 UK Global Talent | Applied AI Researcher at Manchester Met University
+- 📝 Applied AI researcher with experience in AI applications, Computer Vision, and Data Science.
+- 💻 4+ years of experience including industry contributions, publication of articles, and reviewer roles.
+- 🔎 Involved in UKRI-funded projects with international partners from academia and industry.
 - 📫 How to reach me: m.a.charoosaei@gmail.com
 
 
 ### 🖥️ Skills
-- Data Science
-- Machine Learning
-- Deep Learning
+- Applied Machine Learning
 - Computer Vision
+- Software Engineering
 ### ⚙️ Tech Stack
 
 ![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=161616) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=161616) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=161616) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=161616) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=161616) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=161616) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=161616) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=161616)
