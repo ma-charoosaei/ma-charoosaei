@@ -18,10 +18,3 @@
 - Computer Vision
 - Software Engineering
 ### ⚙️ Tech Stack
-
-![Bootstrap](https://img.shields.io/badge/-Python-05122A?style=flat&logo=Python&color=161616) ![Bootstrap](https://img.shields.io/badge/-PyTorch-05122A?style=flat&logo=PyTorch&color=161616) ![Bootstrap](https://img.shields.io/badge/-Pandas-05122A?style=flat&logo=Pandas&color=161616) ![Bootstrap](https://img.shields.io/badge/-Numpy-05122A?style=flat&logo=Numpy&color=161616) ![Bootstrap](https://img.shields.io/badge/-TensorFlow-05122A?style=flat&logo=TensorFlow&color=161616) ![Bootstrap](https://img.shields.io/badge/-Git-05122A?style=flat&logo=Git&color=161616) ![Bootstrap](https://img.shields.io/badge/-MySQL-05122A?style=flat&logo=MySQL&color=161616) ![Bootstrap](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=Visual-Studio-Code&color=161616)
-
-<div>
-  <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ma-charoosaei&show_icons=true&locale=en&layout=compact" alt="ma-charoosaei" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=ma-charoosaei&" alt="ma-charoosaei" />
-</div>
