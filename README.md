@@ -14,7 +14,6 @@
 
 
 ### 🖥️ Skills
-- Applied Machine Learning
-- Computer Vision
-- Software Engineering
-### ⚙️ Tech Stack
+- Software testing and test evolution
+- LLMs for software engineering
+- Applications of AI and computer vision
